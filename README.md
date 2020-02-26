@@ -3,7 +3,7 @@ This is a Keras implementation of Spatiotemporal Multi-Graph Convolution Network
 
 ## Model architecture
 
-![system_architecture](./images/system_architecture.png)
+![system_architecture](https://github.com/Knowledge-Precipitation-Tribe/ST-MGCN-keras/blob/master/images/system_architecture.png)
 
 ## Requirements:
 
