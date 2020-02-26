@@ -24,6 +24,12 @@ $ python main.py
 
 Geng X, Li Y, Wang L, et al. Spatiotemporal multi-graph convolution network for ride-hailing demand forecasting[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2019, 33: 3656-3663.
 
+## Follow us
+
+Knowledge-Precipitation-Tribe
+
+![qrcode](https://github.com/Knowledge-Precipitation-Tribe/Knowledge-Precipitation-Tribe/blob/master/qrcode.jpg)
+
 
 
 
